@@ -1,4 +1,4 @@
 # mkn-wad
-# Makaire Njie
-# N41503c
-# WAD student
+Name: Makaire Njie
+Group No: N41503c
+Description: WAD student
